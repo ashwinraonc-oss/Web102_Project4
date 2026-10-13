@@ -1,10 +1,10 @@
 # Web Development Project 4 - *Name of App Here*
 
-Submitted by: **Your Name Here**
+Submitted by: **Ashwin Rao**
 
-This web app: **insert description**
+This web app: **Uses NASA's EPIC API to show a picture of the Earth at a random date, time, and location**
 
-Time spent: **X** hours spent in total
+Time spent: **2** hours spent in total
 
 ## Required Features
 
@@ -44,7 +44,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='Kapture 2026-10-13 at 13.18.19.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
